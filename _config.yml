@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 deploy:
   type: git
-  repo: https://github.com/baoqin87/zhongbaoqin.github.io.git
+  repo: https://github.com/baoqin87/baoqin87.github.io.git
   branch: master
